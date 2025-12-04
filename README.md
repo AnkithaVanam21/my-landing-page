@@ -49,5 +49,4 @@ http://localhost:3000
 This project is deployed on Vercel.
 
 🔗 Live Demo:
-my-landing-page-ijkpw7m40-ankithavanam21s-projects.vercel.app
-
+(https://my-landing-page-sigma-one.vercel.app)
