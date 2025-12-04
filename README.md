@@ -49,5 +49,5 @@ http://localhost:3000
 This project is deployed on Vercel.
 
 🔗 Live Demo:
-https://your-deployed-link.vercel.app/
+my-landing-page-ijkpw7m40-ankithavanam21s-projects.vercel.app
 
